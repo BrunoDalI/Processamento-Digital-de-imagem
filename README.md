@@ -3,4 +3,4 @@ Jogo snake criado em python utilizando a biblioteca pygame para prova da discipl
 
 
 Autor: Bruno Dall Stella Cardoso
-Data: 
+Data: 26/05/2021
